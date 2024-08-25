@@ -1,0 +1,8 @@
+linkedin-api
+python-dotenv
+fuzzywuzzy
+python-Levenshtein
+flask
+flask_cors
+supabase
+ollama
