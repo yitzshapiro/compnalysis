@@ -1,1 +1,5 @@
 .env
+app.log
+.DS_Store
+.ruff_cache
+.venv
